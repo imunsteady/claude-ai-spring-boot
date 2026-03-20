@@ -27,6 +27,12 @@
 - Invoke skills with natural language
 - Each skill is one independent capability
 
+### 6. Subagents usage
+- Use subagents liberally to keep the main context window clean
+- Load subagents from `.claude/agents/`
+- For complex problems, throw more compute at it via subagents
+- One task per subagent for focused execution on a given tech stack
+
 ## Core Principles
 - **Simplicity First**: Make every change as simple as possible. Impact minimal code
 - **No Laziness**: Find root causes. No temporary fixes. Senior developer standards
