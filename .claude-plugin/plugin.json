@@ -1,0 +1,8 @@
+{
+  "name": "spring-boot-plugin",
+  "description": "A plugin to generate Spring Boot apps",
+  "version": "1.0.0",
+  "author": {
+    "name": "Piotr Mińkowski"
+  }
+}
